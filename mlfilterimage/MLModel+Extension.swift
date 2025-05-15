@@ -7,7 +7,6 @@
 
 import UIKit
 import CoreML
-import CoreImage
 import Vision
 
 extension MLModel {
